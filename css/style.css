@@ -1,0 +1,62 @@
+#header {
+    font-size: 100px;
+    text-align: center;
+    top: 300px;
+    position: relative;
+
+}
+
+body {
+    padding-top: 20px;
+    margin: 30px 30px;
+    background-color: blue;
+    color: yellow;
+    font-family: "gloria hallelujah";
+    position: relative;
+}
+
+.quote {
+    background-color: black;
+    border: yellow solid;
+    border-radius: 40px;
+    width: 300px;
+    height: -100px;  
+    padding: 50px;
+    position: relative;
+    left: 1300px;
+}
+
+.btn {
+    background: black;
+    color: yellow;
+    padding: 50px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: solid;
+    position: relative;
+    left: 1000px;
+    top: -150px;
+}
+
+
+footer {
+    position: relative;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    position: relative;
+    bottom: -250px;
+}
+
+.logo {
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+    
+
